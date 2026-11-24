@@ -1,0 +1,16 @@
+{
+  "webCommit": "89784cef2cad2b134d677ed9d2a150389327809a",
+  "syncedAtUtc": "2026-11-24T11:07:31.513Z",
+  "sharedPaths": [
+    "components.json",
+    "tsconfig.app.json",
+    "tsconfig.node.json",
+    "src/components/ui",
+    "src/components/list",
+    "src/lib/cn.ts",
+    "src/lib/list-helpers.ts",
+    "src/lib/query-client.ts",
+    "src/styles/globals.css",
+    "src/locales/en-US/common.json"
+  ]
+}
